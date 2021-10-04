@@ -1,0 +1,17 @@
+html, body { height: 100%; }
+
+
+.valign-center {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  vertical-align: middle;
+}
+
+.mat-row:hover .mat-cell {
+  background: rgba(0, 0, 0, 0.06);
+}
+
+.full-width {
+  width: 100%;
+}

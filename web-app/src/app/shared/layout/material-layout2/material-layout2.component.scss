@@ -1,0 +1,22 @@
+:host {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+}
+.sidenav {
+        width: 300px;
+        // background: rgba(0, 0, 0, 0.05);
+        background-color: #EEEEEE;
+}
+
+.sidenav-container {
+        height: 100%;
+}
+
+ul li {
+        list-style: none;
+      }
+
+      footer {
+        padding: 20px;
+      }

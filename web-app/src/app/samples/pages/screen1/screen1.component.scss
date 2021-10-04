@@ -1,0 +1,13 @@
+.right-sidenav {
+	width: 380px;
+	height: 100%;
+	position:fixed;
+	top: 64px;
+	right: 0px;
+}
+
+@media screen and (max-width: 768px) {
+	.right-sidenav {
+		top: 56px;
+	}
+}
