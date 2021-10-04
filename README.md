@@ -1,2 +1,2 @@
-# angular-showcase
-Angular 12, Angular Material
+# Angular & Angular Material Sample Application
+Sample Angular (v12) reference application, powered by blurlzy.
