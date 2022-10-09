@@ -1,5 +1,5 @@
 # Angular & Angular Material Sample Application
-Sample Angular (v12) reference application, powered by blurlzy.
+Sample Angular (v12) & Angular Material reference application, powered by blurlzy. The goal of this repository is to provide a starting point for people to kick-start the new projects using Angular 12+ & Angular Material.
 
 # Getting Started
 ```powershell
